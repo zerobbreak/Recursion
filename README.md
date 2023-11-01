@@ -31,8 +31,9 @@ Build a function `mergeSort` that takes in an array and returns a sorted array, 
 
 The JavaScript solutions for Assignment 1 and Assignment 2 are provided in separate files within this repository.
 
-- [Assignment 1 - `fibs.js`, `fibRec.js`](assignment1/fibs.js)
-- [Assignment 2 - `MergeSort.js`](assignment2/mergeSort.js)
+- [Assignment 1 - `Fib.js`](Assignment1/Fib.js)
+- [Assignment 1 - `FibRec.js`](Assignment1/FibRec.js)
+- [Assignment 2 - `MergeSort.js`](Assignment2/MergeSort.js)
 
 You can find the code for each assignment in their respective files. Each file includes comments to explain the code and its logic.
 
@@ -40,7 +41,7 @@ You can find the code for each assignment in their respective files. Each file i
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/javascript-assignments.git
+   git clone https://github.com/zerobbreak/Recursion.git
    ```
 
 2. Open the assignment files in your preferred code editor and review the solutions.
