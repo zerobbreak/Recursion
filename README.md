@@ -47,11 +47,3 @@ You can find the code for each assignment in their respective files. Each file i
 2. Open the assignment files in your preferred code editor and review the solutions.
 
 3. To use the functions, you can import them into your own JavaScript code and call them as needed.
-
-## License
-
-This code is provided under the MIT License. You are free to use and modify the code for your own purposes. Please refer to the `LICENSE` file for more details.
-
----
-
-Feel free to customize this README to include additional information or details specific to your assignment environment.
